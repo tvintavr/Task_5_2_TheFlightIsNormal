@@ -1,0 +1,3 @@
+C:/Users/Azat/CLionProjects/Task_5_2_TheFlightIsNormal/cmake-build-debug/CMakeFiles/Task_5_2_TheFlightIsNormal.dir
+C:/Users/Azat/CLionProjects/Task_5_2_TheFlightIsNormal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Azat/CLionProjects/Task_5_2_TheFlightIsNormal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
